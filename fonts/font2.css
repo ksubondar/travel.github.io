@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'COUTURE-Bold';
+  src: url('COUTURE-Bold.eot');
+  src: url('COUTURE-Bold.eot?#iefix') format('embedded-opentype'),
+       url('COUTURE-Bold.ttf') format('truetype'),
+       url('COUTURE-Bold.woff') format('woff'),
+       url('COUTURE-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

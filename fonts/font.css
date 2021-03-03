@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'PTSerif-Regular';
+  src: url('PTSerif-Regular.eot');
+  src: url('PTSerif-Regular.eot?#iefix') format('embedded-opentype'),
+       url('PTSerif-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PTSerif-Regular';
+  src: url('PTSerif-Regular.ttf') format('truetype'),
+       url('PTSerif-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
