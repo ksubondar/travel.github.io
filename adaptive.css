@@ -104,6 +104,16 @@
     .our-story_button a {
         width: 200px;
     }
+    footer {
+    padding: 40px 0 34px 0;
+}
+    .footer_container {
+    flex-direction: column;
+    align-items: center;
+    }
+    .copyright {
+        margin-bottom: 20px;
+    }
 }
 @media only screen and (max-width: 800px) {
     header {
@@ -113,7 +123,7 @@
         display: inline-block;
     }
     .form {
-        top: 110%;
+        top: 105%;
     left: 0;
     width: 315px;
     }
